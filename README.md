@@ -3,7 +3,7 @@
 
 My solutions
 * [x] [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014)
-```
+```javascript
 function mix(s1, s2) {
   s1 = s1.replace(/[^a-z]/g,'');
   s2 = s2.replace(/[^a-z]/g,'');
